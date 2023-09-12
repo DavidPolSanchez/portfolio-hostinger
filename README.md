@@ -1,8 +1,13 @@
-# React + Vite
+# [daveloop.me](https://daveloop.me)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Dave loop ** personal site, built with [React.js](https://react.org/). This repository contains the **source code** that powers `daveloop.me`.
+
+## Development
+
+Run the following command on a terminal to clone the project, install the dependencies and start the development server.
+
+```bash
+git clone https://github.com/DavidPolSanchez/portfolio-hostinger.git && cd portfolio-hostinger && yarn install && yarn run dev
+```

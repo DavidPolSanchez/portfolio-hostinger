@@ -8,21 +8,21 @@ export const Work = () => {
       title: "jgkfdpgj",
       duration: "3 yeas",
       details:
-        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm,dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmñad. snfñsdanfadnfñsnfn",
+        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm, dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmñad. snfñsdanfadnfñsnfn",
     },
     {
       year: 2016,
       title: "jgkfdpgj",
       duration: "3 yeas",
       details:
-        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm,dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmñ. adsnfñsdanfadnfñsnfn",
+        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm, dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmñ. adsnfñsdanfadnfñsnfn",
     },
     {
       year: 2016,
       title: "jgkfdpgj",
       duration: "3 yeas",
       details:
-        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm,dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmña. dsnfñsdanfadnfñsnfn",
+        "sdkfdksfndskfndskafndskfndsñfnañdsnfmdsfnds. ñfndsmfnsdñfndsnfmsdnfñasnfm, dsfndmsnfmdsnfñadsnfmdsnfmñdsnafmdsnfmña. dsnfñsdanfadnfñsnfn",
     },
   ];
   return (
