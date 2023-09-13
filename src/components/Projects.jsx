@@ -14,10 +14,10 @@ import ReactImg from   '../assets/React-router.png'
          quibusdam reiciendis saepe nihil cupiditate facere.
          </p>
          <div className="grid sm:grid-cols-2 gap-12 ">
-            <ProjectItem img={PatternImg} title="Java-Patterns"techstack={"Java"}/>
-            <ProjectItem img={TrelloImg} title="Trello-App" techstack={"Vue & Cypress"}/>
-            <ProjectItem img={ReactImg} title="React-Router-Example"techstack={"React"}/>
-            <ProjectItem img={AngularImg} title="Angular-RealApp"techstack={"Angular & Cypress"}/>
+            <ProjectItem img={PatternImg} title="Java-Patterns"techstack={"Java"} url="https://github.com/DavidPolSanchez/java-patterns-junit"/>
+            <ProjectItem img={TrelloImg} title="Trello-App" techstack={"Vue & Cypress"} url="https://github.com/DavidPolSanchez/TrelloAPP-Cypress"/>
+            <ProjectItem img={ReactImg} title="React-Router-Example"techstack={"React"} url="https://github.com/DavidPolSanchez/react-router-example"/>
+            <ProjectItem img={AngularImg} title="Angular-RealApp"techstack={"Angular & Cypress"} url="https://github.com/DavidPolSanchez/angular-realworld-example-app"/>
             
    
             
